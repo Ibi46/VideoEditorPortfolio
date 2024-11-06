@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Video Editor',
+    company: "Wizardry media",
+    duration: "(Jan 2021 - Jan2022)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Video Editor",
+    company: "Tasty Edits",
+    duration: "(Jun 2022 - Jan 2023)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "HEAD OF VISUALS",
+    company: "HIK MEDIA",
+    duration: "(Jan 2022 - Present)"
   }
 ]
