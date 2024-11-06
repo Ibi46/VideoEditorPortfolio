@@ -133,7 +133,13 @@
     font-size: 1rem;
   }
   
-  @media (min-width: 640px) {
+  @media (max-width: 640px) {
+    #skills .skills-header-line{
+      width: 4rem;
+    }
+    #skills .skills-header {
+      margin-left: 0;
+    }
     #skills {
       margin: 6rem 0;
     }
