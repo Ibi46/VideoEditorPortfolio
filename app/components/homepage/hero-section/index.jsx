@@ -33,7 +33,7 @@ function HeroSection() {
           }}
           />
         </div>
-        <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-20 md:pb-10 lg:pt-10" style={{ marginTop: '60px' }}>
+        <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-2 md:pb-10 lg:pt-10" style={{ marginTop: '60px' }}>
           <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             Hello, <br />
             This is {' '}

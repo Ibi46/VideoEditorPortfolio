@@ -1,5 +1,6 @@
 // @flow strict
 import Link from "next/link";
+import "./navbar.css"
 
 
 function Navbar() {
